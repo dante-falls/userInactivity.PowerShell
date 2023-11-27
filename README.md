@@ -1,4 +1,4 @@
-<h1>userInactivity - Automatically Disable Inactive User Accounts</h1>
+<h1>userInactivity - Automatically Disable Inactive User Accounts In Active Directory</h1>
 
  ### Article I Wrote To Demonstrate The Script -
  ### [userInactivity - A PowerShell Script That Identifies And Disables Inactive User Accounts In Active Directory](https://medium.com/@dante.falls/powershell-script-that-identifies-and-disables-inactive-user-accounts-in-active-directory-db6847dbddf9)
