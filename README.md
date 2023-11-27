@@ -21,7 +21,7 @@ Click on the medium article above to learn more about the script and how to use 
 
 <p align="center">
 Run The userInactivity.ps1 Script From The PowerShell Command Line: <br/>
-<img src="https://miro.medium.com/v2/resize:fit:3372/format:webp/1*R4SOhJu6FZfZ3-jt4L8X5g.png" height="300%" width="300%" alt="deviceName Demonstration"/>
+<img src="https://miro.medium.com/v2/resize:fit:3372/format:webp/1*R4SOhJu6FZfZ3-jt4L8X5g.png" height="300%" width="300%" alt="userInactivity Demonstration"/>
 <br />
 <br />
 </p>
